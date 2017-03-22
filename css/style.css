@@ -1,0 +1,65 @@
+.header{
+    width: 1000px;
+    position: relative;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+.logo{
+    background-image: url(http://mimg.127.net/hxm/yanxuan-web/p/20150730/style/img/header-s63686fd389-4827c33dfe.png);
+    background-position:0 -222px;
+   /* position: absolute;*/
+    width:180px;
+    height: 60px;
+    margin:0 auto;
+    /*top:30px;*/
+   /* left:434px;*/
+   /* display: inline-block;*/
+}
+.m-search{
+    position: absolute;
+    top: 60px;
+    right:0;
+}
+.find{
+    display: inline-block;
+}
+.find input{
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #b4a078;
+    width: 230px;
+    height: 15px;
+    font-family: "Microsoft Yahei","微软雅黑",verdana;  
+    color:black;
+    font-size: 14px;
+}
+.find input::-webkit-input-placeholder {
+	color: #b4a078;
+}
+
+.search{
+    display: inline-block;
+    color: #b4a078;
+}
+.icon{
+    display: inline-block;
+    color: #b4a078;
+    margin-left: 5px;
+}
+.nav{clear: both;}
+
+.first-ul .first-term:nth-child(11){
+    border-left:1px solid grey;
+}
+
+.first-term{
+    margin-top: 20px;
+    float: left;
+    padding:4px 20px;
+} 
+a{
+    color:black;
+}
+.second-ul{
+    display: none;
+}
