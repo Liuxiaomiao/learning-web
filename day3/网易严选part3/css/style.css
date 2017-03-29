@@ -1,0 +1,204 @@
+.header {
+    width: 1000px;
+    position: relative;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
+.logo {
+    background-image: url(http://mimg.127.net/hxm/yanxuan-web/p/20150730/style/img/header-s63686fd389-4827c33dfe.png);
+    background-position: 0 -222px;
+    /* position: absolute;*/
+    width: 180px;
+    height: 60px;
+    margin: 0 auto;
+    /*top:30px;*/
+    /* left:434px;*/
+    /* display: inline-block;*/
+}
+
+.m-search {
+    position: absolute;
+    top: 60px;
+    right: 0;
+}
+
+.find {
+    display: inline-block;
+}
+
+.find input {
+    outline: none;
+    border: none;
+    border-bottom: 1px solid #b4a078;
+    width: 230px;
+    height: 15px;
+    font-family: "Microsoft Yahei", "微软雅黑", verdana;
+    color: black;
+    font-size: 14px;
+}
+
+.find input::-webkit-input-placeholder {
+    color: #b4a078;
+}
+
+.search {
+    display: inline-block;
+    color: #b4a078;
+}
+
+.icon {
+    display: inline-block;
+    color: #b4a078;
+    margin-left: 5px;
+}
+
+.nav {
+    clear: both;
+}
+
+.hide{
+    border-left: 1px solid #ccc;
+    margin-top: 23px;
+    float: left;
+    height: 23px;
+}
+
+
+.first-term {
+    margin-top: 20px;
+    float: left;
+    padding: 4px 25px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.first-term a {
+    color: black;
+    height: 24px;
+    display: block;
+}
+
+.first-term a:hover{
+    border-bottom: 3px solid#b4a078; 
+    color: #b4a078;
+}
+.second-ul {
+    display: none;
+}
+
+.banner {
+    margin-top: 18px;
+    width: 100%;
+    overflow: hidden;
+}
+
+.banner1 {
+    margin-left: -200px;
+}
+
+.brand {
+    margin: 18px auto 0;
+    width: 1090px;
+}
+
+.word1 {
+    display: inline-block;
+}
+.product {
+    display: inline-block;
+    font-size: 28px;
+}
+.word1 p{
+    display: inline-block;
+    font-size: 14px;
+}
+.word2 {
+    float: right;
+    font-size: 14px;
+    margin-top:25px;
+}
+
+.module1{
+    margin-top: -9px;
+}
+
+.picture1 {
+    float: left;
+}
+.name{
+    position: absolute;
+    margin:48px 120px 50px;
+    font-size: 24px;
+    color: #666;
+    display: inline-block;
+}
+.name-right{
+    margin: 30px 25px 50px;
+    font-size: 20px;
+}
+.little{
+    position: absolute;
+    font-size: 11px;
+    top:-3px;
+    left: 130px;
+    text-align: center;
+    width:32px;
+    height: 21px;
+    color: white;
+    background-image: url(http://yanxuan.nosdn.127.net/18ccda99a6f55ef573b3fb098b4d01b8.png);
+
+}
+.price{
+    position: absolute;
+    color: #666;
+    margin: 98px 150px 50px;
+    width: 70px;
+    height: 60px;
+    border-top: 1px solid #666;
+    padding-top: 18px;
+}
+.price-midlle{
+    margin: 98px 128px 50px;
+    padding-left: 20px;
+}
+
+.price-right{
+    margin: 65px 25px 50px;
+    padding-top: 10px;
+}
+.picture2 {
+    float: left;
+    margin-left: 10px;
+}
+
+.pic3 {
+    float: right;
+}
+.picture4{
+    margin-top: 7px;
+}
+.blank{
+    clear: both;
+}
+.new-product {
+    margin: 18px auto 0;
+    width: 1090px;
+}
+.item{
+    float: left;
+    width: 262px;
+    margin: 0 5px;
+    overflow: hidden;
+}
+.bd{
+    text-align: center;
+    font-size: 13px;
+    margin-top: -10;
+}
+.name-newproduct{
+    font-weight: bold;
+}
+.price-newproduct{
+    color: red;
+}

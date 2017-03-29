@@ -1,0 +1,63 @@
+.circle{
+   margin-top: 50px;
+   margin-left:200px;
+   width: 100px;
+   height: 100px;
+   border-radius: 50px;
+   border: 2px solid pink;
+}
+.half-circle{
+    margin-top: 50px;
+    margin-left:200px;
+    width: 100px;
+    height: 50px;
+    border-radius: 50px 50px 0 0;
+    border: 2px solid dodgerblue;
+}
+.quarter-circle{
+    margin-top: 50px;
+    margin-left:200px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px 0 0 0;
+    border: 2px solid mediumpurple;
+}
+.ellipse{
+    margin-top: 50px;
+    margin-left:200px;
+    width: 100px;
+    height: 200px;
+    border-radius: 50px/100px;
+    border: 2px solid yellow;
+}
+.isoceles-triangle{
+    margin-top: 50px;
+    margin-left:200px;
+    width: 0;
+    height: 0;
+    border-bottom: 100px solid mediumspringgreen;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+}
+.regular-triangle{
+    margin-top: 50px;
+    margin-left:200px;
+    width: 0;
+    height: 0;
+    border-bottom: 100px solid grey;
+    border-left: 100px solid transparent;
+    border-right: 100px solid transparent;
+}
+.biu{
+    margin-top: 50px;
+    margin-left:200px;
+    width: 0px;
+    height: 0px;
+    border-bottom:250px solid yellow;
+    border-left:20px solid transparent;
+    border-right:20px solid transparent;
+}
+.piu{
+    margin-top: 50px;
+    margin-left:200px;
+}
